@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3590eb57-74ae-4a76-b8f2-160068ab52b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BaseButtonCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BaseCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BaseCardRestaurant.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/DRestaurant.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/DRezepte.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/IRestaurant.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/IRezepte.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/MRestaurant.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/MRezepte.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Restaurant.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Rezept.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/posts/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Categories.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/posts/Profil.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Users.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/posts/Overview.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/posts/Read.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/posts/Read.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Yr0V3mcHDRECEOKSiowkRqYKbC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/P1G5-21DD/WebstormProjects/richtige app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\P1G5-21DD\WebstormProjects\vue-blog\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3590eb57-74ae-4a76-b8f2-160068ab52b2" name="Changes" comment="" />
+      <created>1701268411205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701268411205</updated>
+      <workItem from="1701268412810" duration="13951000" />
+      <workItem from="1701435233011" duration="26391000" />
+      <workItem from="1701596437612" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
